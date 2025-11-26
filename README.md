@@ -158,14 +158,4 @@ After T3: 1
 
 The program will prompt for an input word.
 
----
-
-## Extending the Project
-
-You may replace `MachineA` and `MachineB` with:
-
-* real Turing machines from the assignment
-* multi-tape or multi-head machines
-* transition-table-based machines
-
 All machines must implement the `StepwiseTuringMachine` interface.
